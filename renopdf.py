@@ -5,7 +5,7 @@ import PyPDF2
 import time
 
 # Define a pasta onde estão os arquivos PDF
-pasta_pdf = r'C:\Users\Zito\Desktop\autorizacao_arquivo'
+pasta_pdf = r'C:\NOMEDAPASTA'
 
 # Define a expressão regular para a palavra que deve ser procurada
 padrao_procurado = r'protocolado sob o nº \d{10}'
